@@ -1,0 +1,10 @@
+.fundo{
+    
+    background-color: gray;
+
+}
+#demo-table > caption {
+    caption-side: bottom;
+    font-style: italic;
+    text-align: right;
+    }
